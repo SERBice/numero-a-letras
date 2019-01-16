@@ -1,8 +1,8 @@
 {
-  "name": "arielcr/numero-a-letras",
+  "name": "serbice/numero-a-letras",
   "description": "Convierte un número a su valor correspondiente en letras.",
   "keywords": ["convertir", "numero", "letras"],
-  "homepage": "https://github.com/arielcr/numero-a-letras",
+  "homepage": "https://github.com/serbice/numero-a-letras",
   "license" : "MIT",
   "authors" : [
     {
